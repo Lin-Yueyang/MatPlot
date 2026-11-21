@@ -2,11 +2,11 @@
 
 反应自由能台阶图编辑器，支持多体系、反应分支、可选过渡态及文字样式调整。
 
-当前版本：[v0.13](./stepplot-v0.13.html)。
+当前版本：[v0.17](./stepplot.html)。
 
 [在线使用](https://lin-yueyang.github.io/step_plot/) · [更新记录](./更新.md)
 
-可在线使用，也可下载 HTML，用 Chrome 或 Edge 打开离线使用。
+可收藏上方的“在线使用”。离线使用时，下载 [stepplot.html](./stepplot.html)，用 Chrome 或 Edge 打开后加入收藏。以后将新版文件放回同一位置，即可沿用收藏。历史版本见 [archive](./archive/)。
 
 输入 E、Gcorr 与小分子参考项即可绘图。工程通过“保存工程”导出 JSON，下次用“打开”该JSON可继续编辑。
 
